@@ -1,4 +1,4 @@
-# Hello Everyone!, I am Arjun , a upcoming Indian AI Engineer / Forward Deployed Engineer aspiring to work in Swiss based companies. 
+# Hello Everyone!, I am Arjun , a upcoming Indian AI Engineer / Forward Deployed Engineer aspiring to work onsite in foreign countries (i personally like Switzerland). 
 
 # 💫 About Me:
 💫 About Me<br>🔭 Building intelligent, AI-powered systems that solve real-world problems.<br>🤝 Open to collaborating on AI/ML, Agentic AI, and production-grade software engineering projects.<br>🎯 Aspiring Forward Deployed Engineer (FDE) — passionate about bridging AI research, software engineering, and real-world business applications.<br>🇨🇭 Long-term goal: Building my career in Switzerland, targeting opportunities which allow me to learn as compared to working (but it does'nt mean I won't work), sustainable working hours, and a strong work-life balance.<br>🌱 Currently exploring: LLMs, AI Agents, Applied Machine Learning, Distributed Systems, Backend Engineering, and Cloud Infrastructure.<br>🧠 Ask me about: Python, Java, C++,  .<br>⚡ Fun fact: I enjoy taking complex problems and engineering AI-driven solutions that actually work in the real world.
